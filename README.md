@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tashach
-- 👀 I’m interested in becoming an awesome web devloper!  
-- 🌱 I’m currently learning javascript.
+- 👀 I’m interested in becoming an awesome web developer!  
+
 
 <!---
 tashach/tashach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
