@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tasha</h1>
 <h3 align="center">A student software developer at Ada Developer's Academy</h3>
 
-- 🔭 I’m currently working on [Care-Circle](https://github.com/tashach/care-circle-app)
+- 🔭 I’m currently working on [Care-Circle](https://github.com/tashach/care-circle-app), my Capstone project for Ada Developer's Academy
 
 - 🌱 I’m currently learning **React, node.js, Express, MongoDB, Python, Javascript**
 
