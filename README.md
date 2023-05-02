@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tasha</h1>
 <h3 align="center">A student software developer at Ada Developer's Academy</h3>
 
-- 🔭 Most recently on [Care-Circle](https://github.com/tashach/care-circle-app), my Capstone project for Ada Developer's Academy
+- 🔭 My most recent project is [Care-Circle](https://github.com/tashach/care-circle-app), a full-stack web application for Capstone project for Ada Developer's Academy
 
 - 🌱 I’m currently learning **Golang, Python, AWS Cloudformation, AWS Lambda**
 
